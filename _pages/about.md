@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 
-## About Me
 
 
-Hello! I' a passionate developer with a keen interest in coding and data analysis. This GitHub page serves as my personal repository where I store and share my coding tips, projects, and experiments. Whether you're here to browse through my projects, get a hint from my coding tips, or collaborate on something exciting, I'm glad to have you here.
+
+Hello! 
+I' a passionate developer with a keen interest in coding and data analysis. 
+This GitHub page serves as my personal repository where I store and share my coding tips, projects, and experiments. Whether you're here to browse through my projects, get a hint from my coding tips, or collaborate on something exciting, I'm glad to have you here.
 
 ## What You'll Find Here
 
